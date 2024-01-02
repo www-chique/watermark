@@ -1,0 +1,13 @@
+/node_modules/
+/dist/
+.DS_Store
+**/.history
+.env
+/log/
+.test-report/*
+!.test-report/boilerplate.html
+src/svggradient/images/*.*
+src/svggradient/output/*.*
+/backups/
+/secret/
+.env.toml
